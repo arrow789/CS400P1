@@ -59,8 +59,8 @@ public class TestHashTable1 {
     public void test3HashTableCollisionHanding() {
         // collossison same index, whether we can differnece the keys/// collsion handling
         map = new HashTableMap<String, Student>(5);
-        Student a = new Student(1, "Engineering", 2021);
-        Student b = new Student(2, "Engineering", 2022);
+        Student a = new Student(1L, "Engineering", 2021);
+        Student b = new Student(2L, "Engineering", 2022);
         Student nick39 = new Student(4810758423L, "Engineering", 2021);
         map.put("a", a);
         map.put("b", b);
