@@ -1,3 +1,12 @@
+// --== CS400 File Header Information ==--
+// Name: <Jiangang Chen>
+// Email: <jiangang.chen@wisc.edu>
+// Team: <HE>
+// Role: <Test Engineering 1>
+// TA: <Na Li>
+// Lecturer: <Florian Heimerl>
+// Notes to Grader: <optional extra notes>
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;

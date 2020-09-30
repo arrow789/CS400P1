@@ -1,6 +1,14 @@
+// --== CS400 File Header Information ==--
+// Name: <Jiangang Chen>
+// Email: <jiangang.chen@wisc.edu>
+// Team: <HE>
+// Role: <Test Engineering 1>
+// TA: <Na Li>
+// Lecturer: <Florian Heimerl>
+// Notes to Grader: <optional extra notes>
+
 // Test hashmap was left in so I could upload quicker and make sure the use
 // of my front end worked
-
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 public class frontEndHash <KeyType, ValueType> {
